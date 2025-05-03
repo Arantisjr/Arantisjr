@@ -20,11 +20,11 @@ I'm a passionate full-stack developer who loves building web and mobile apps. I 
 
 ## 📈 GitHub Stats
 
-![Arantsjr GitHub Stats](https://github-readme-stats.vercel.app/api?Arantisjr=your-github-Arantisjr&show_icons=true&theme=radical)
+![Arantsjr GitHub Stats](https://github-readme-stats.vercel.app/api?Arantisjr&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 
-- GitHub: [@yourusername](https://github.com/Arantisjr)
+- GitHub: [@Arantisjr](https://github.com/Arantisjr)
 - LinkedIn: [Ngongang Arantis](https://www.linkedin.com/in/arantis)
 - Email: arantisjunior@gmail.com
 
