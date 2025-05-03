@@ -18,9 +18,6 @@ I'm a passionate full-stack developer who loves building web and mobile apps. I 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 
-## 📈 GitHub Stats
-
-![Arantsjr GitHub Stats](https://github-readme-stats.vercel.app/api?Arantisjr&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 
