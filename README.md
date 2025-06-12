@@ -25,6 +25,12 @@ I'm a passionate full-stack developer who loves building web and mobile apps. I 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 
 
+### 📊 GitHub Stats
+![Arantis junior GitHub stats](https://github-readme-stats.vercel.app/api?username=Arantisjr&show_icons=true&theme=default&count_private=true)
+
+### 🔝 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantisjr&layout=compact)
+
 
 ## 📫 How to reach me
 
