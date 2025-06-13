@@ -29,7 +29,7 @@ I'm a passionate full-stack developer who loves building web and mobile apps. I 
 ![Arantis junior GitHub stats](https://github-readme-stats.vercel.app/api?username=Arantisjr&show_icons=true&theme=default&count_private=true)
 
 ### 🔝 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantisj&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantisjr&layout=compact)
 
 
 ## 📫 How to reach me
