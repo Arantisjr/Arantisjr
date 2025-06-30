@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Arantis junior
+## Hi there 👋
+My name is **Arantis Junior** and I am a _Full Stack Dev_.
 
-I'm a passionate full-stack developer who loves building web and mobile apps. I enjoy solving real-world problems and learning new technologies.
+I build web and mobile apps. I enjoy solving real-world problems and learning new technologies.
 
 ## 🚀 About Me
 
@@ -8,6 +9,16 @@ I'm a passionate full-stack developer who loves building web and mobile apps. I 
 - 💼 Working on personal and open-source projects
 - 🧠 Interested in Web Dev, Mobile Dev, and UI/UX Design
 - 🤝 Looking to collaborate on full-stack or frontend projects
+
+  ### View My Stats
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arantisjr&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arantisjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arantisjr&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
 
 
 ## 🛠️ Technologies & Tools
