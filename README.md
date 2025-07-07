@@ -41,5 +41,5 @@ I build web and mobile apps. I enjoy solving real-world problems and learning ne
 - GitHub: [@Arantisjr](https://github.com/Arantisjr)
 - LinkedIn: [Ngongang Arantis](https://www.linkedin.com/in/arantis)
 - Email: arantisjunior@gmail.com
-- portfolio site: [Arantisjr.com](https://portfolio-arantis.onrender.com)
+- portfolio site: [Arantisjr.com](https://arantech.onrender.com/)
 
