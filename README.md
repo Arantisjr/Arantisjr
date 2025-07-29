@@ -1,12 +1,12 @@
 ## Hi there 👋
 My name is **Arantis Junior** and I am a _Full Stack Dev_.
 
-I build web and mobile apps. I enjoy solving real-world problems and learning new technologies.
+I build web and mobile apps. I enjoy building things that live on the internet and learning new technologies.
 
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **Nextjs** 
-- 💼 Working on personal and open-source projects
+- 💼 I'm currently on a 6months internship at [iSpark-Inno](https://github.com/iSpark-Inno) 
 - 🧠 Interested in Web Dev, Mobile Dev, and UI/UX Design
 - 🤝 Looking to collaborate on full-stack or frontend projects
 
