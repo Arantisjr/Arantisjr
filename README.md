@@ -1,6 +1,9 @@
-## Hi there 👋
-My name is **Arantis Junior** and I am a _Full Stack Dev_.
-
+## Hi  there 👋
+My name is **Arantis Junior** 
+and I am a _Full Stack Dev_.
+<a href="https://zarif.pro/?ref=ghrdme" target="_blank">
+    <img src="https://github.com/zarifpour/assets/blob/main/gifs/imposter.gif?raw=true" alt="imposter" width="75"/>
+  </a>
 I build web and mobile apps. I enjoy building things that live on the internet and learning new technologies.
 
 ## 🚀 About Me
