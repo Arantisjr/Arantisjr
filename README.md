@@ -9,7 +9,8 @@ I build web and mobile apps. I enjoy building things that live on the internet a
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **Nextjs** and **React Native** 
-- 💼 I'm currently on a 6months internship at [iSpark-Inno](https://github.com/iSpark-Inno) 
+- 💼 I'm currently on a 6months internship at [iSpark-Inno](https://github.com/iSpark-Inno)
+- I'm working on private projects
 - 🧠 Interested in Web Dev, Mobile Dev, and UI/UX Design
 - 🤝 Looking to collaborate on full-stack or frontend projects
 
