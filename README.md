@@ -1,20 +1,21 @@
-## Hi  there 👋
+## Hi there 👋
 My name is **Arantis Junior** 
-and I am a _Full Stack Dev_.
+and I am a _Full Stack Developer & CS Student_.
 <a href="https://zarif.pro/?ref=ghrdme" target="_blank">
     <img src="https://github.com/zarifpour/assets/blob/main/gifs/imposter.gif?raw=true" alt="imposter" width="75"/>
   </a>
-I build web and mobile apps. I enjoy building things that live on the internet and learning new technologies.
+
+I build web and mobile apps while pursuing my degree in Computer Science. I enjoy building things that live on the internet and learning new technologies.
 
 ## 🚀 About Me
-
-- 🌱 I’m currently learning **Nextjs** and **React Native** 
-- 💼 I'm currently on a 6months internship at [iSpark-Inno](https://github.com/iSpark-Inno)
-- I'm working on private projects
+- 🎓 Currently studying **Computer Science** at University of Buea
+- 🌱 Learning **Next.js** and **React Native** 
+- 💼 I'm on a 6-month internship at [iSpark-Inno](https://github.com/iSpark-Inno)
+- 🔨 Working on private projects
 - 🧠 Interested in Web Dev, Mobile Dev, and UI/UX Design
 - 🤝 Looking to collaborate on full-stack or frontend projects
 
-  ### View My Stats
+### View My Stats
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arantisjr&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
@@ -23,7 +24,6 @@ I build web and mobile apps. I enjoy building things that live on the internet a
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arantisjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arantisjr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
-
 
 ## 🛠️ Technologies & Tools
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -41,11 +41,8 @@ I build web and mobile apps. I enjoy building things that live on the internet a
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 
-
 ## 📫 How to reach me
-
 - GitHub: [@Arantisjr](https://github.com/Arantisjr)
 - LinkedIn: [Ngongang Arantis](https://www.linkedin.com/in/arantis)
 - Email: arantisjunior@gmail.com
-- portfolio site: [Arantisjr.com](https://arantech.onrender.com/)
-
+- Portfolio: [Arantisjr.com](https://arantech.onrender.com/)
