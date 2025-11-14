@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is **Arantis Junior** 
+My name is **Ngongang Arantis** 
 and I am a _Full Stack Developer & CS Student_.
 <a href="https://zarif.pro/?ref=ghrdme" target="_blank">
     <img src="https://github.com/zarifpour/assets/blob/main/gifs/imposter.gif?raw=true" alt="imposter" width="75"/>
