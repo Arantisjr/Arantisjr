@@ -5,7 +5,7 @@ and I am a _Full Stack Developer & CS Student_.
     <img src="https://github.com/zarifpour/assets/blob/main/gifs/imposter.gif?raw=true" alt="imposter" width="75"/>
   </a>
 
-I build web and mobile apps while pursuing my degree in Computer Science. I enjoy building things that live on the internet and learning new technologies.
+21, building web and mobile apps while pursuing my degree in Computer Science. I enjoy building things that live on the internet and learning new technologies.
 
 ## 🚀 About Me
 - 🎓 Currently studying **Computer Science** at University of Buea
